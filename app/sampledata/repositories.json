@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 519233475,
+      "name": "agendaBootcampDIO",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/DenisTomas/agendaBootcampDIO",
+      "description": "description"
+    },
+    {
+      "id": 475240188,
+      "name": "aluraflix",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "HTML",
+      "html_url": "https://github.com/DenisTomas/aluraflix",
+      "description": "Class nº 3 from ImersãoDev by Alura"
+    },
+    {
+      "id": 507114331,
+      "name": "class-matches-simulator-app",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "html_url": "https://github.com/DenisTomas/class-matches-simulator-app",
+      "description": "Class on native app on Kotlin for Android",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519610634,
+      "name": "contacts-permision-class-DIO",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "html_url": "https://github.com/DenisTomas/contacts-permision-class-DIO",
+      "description": "Class on how to create a contact list on Android/Kotlin",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 521075027,
+      "name": "dio-class-business-card-app",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "html_url": "https://github.com/DenisTomas/dio-class-business-card-app",
+      "description": "This project is part of the DIO bootcamp challenge, offered by Santander, whose objective was to make a native application for creating custom cards, so it was developed in Kotlin (Android Studio), therefore I must say that there is a lot of room for improvement and when I get more experience the plan is to come back to add the improvements required, but already offers in addition to a great adaptable design for both DarkMode and LightMode on your cell phone, it also has card animation.   Also, when your card is made, it will be saved in the database, and therefore will not be deleted when you exit the application.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 514286804,
+      "name": "F1-News",
+      "owner": {
+        "login": "DenisTomas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100135754?v=4"
+      },
+      "html_url": "https://github.com/DenisTomas/F1-News",
+      "description": "Class on creating a News App for Android using Java",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 263680765,
+      "name": "base-redcode",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/base-redcode",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "Empty"
+    },
+    {
+      "id": 183948239,
+      "name": "BaseJetpack",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
+      "description": "Examples with Jetpack components",
+      "stargazers_count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "id": 265040807,
+      "name": "Chuck-Norris-Facts",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
+      "description": "An Android client for the Chuck Norris facts API",
+      "stargazers_count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369822554,
+      "name": "coin-converter",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/coin-converter",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    }
+  ]
+}
